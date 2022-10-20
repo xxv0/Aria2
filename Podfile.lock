@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (5.6.2)
+  - ESPullToRefresh (2.9.3)
+  - HandyJSON (5.0.2)
+  - Hue (5.0.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - PKHUD (5.3.0)
+  - PMAlertController (4.0.1)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SGPagingView (2.1.0)
+  - SnapKit (5.6.0)
+  - SQLite.swift (0.13.3):
+    - SQLite.swift/standard (= 0.13.3)
+  - SQLite.swift/standard (0.13.3)
+  - SwiftEntryKit (2.0.0)
+  - SwiftyJSON (5.0.1)
+  - SwiftyUserDefaults (5.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - HandyJSON
+  - Hue
+  - IQKeyboardManagerSwift
+  - PKHUD
+  - PMAlertController
+  - RxCocoa
+  - RxSwift
+  - SGPagingView (~> 2.1.0)
+  - SnapKit
+  - SQLite.swift
+  - SwiftEntryKit
+  - SwiftyJSON
+  - SwiftyUserDefaults
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ESPullToRefresh
+    - HandyJSON
+    - Hue
+    - IQKeyboardManagerSwift
+    - PKHUD
+    - PMAlertController
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SGPagingView
+    - SnapKit
+    - SQLite.swift
+    - SwiftEntryKit
+    - SwiftyJSON
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  PMAlertController: ab5fcf4d085b7878c9451466d701449c4bf6efb8
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SGPagingView: fb90c03c809363ea340189053c5635a128e1ef84
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SQLite.swift: 903bfa3bc9ab06345fdfbb578e34f47cfcf417da
+  SwiftEntryKit: 61b5fa36f34a97dd8013e48a7345bc4c4720be9a
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  SwiftyUserDefaults: 63f80248cf5bfb3458825d9a78f2eb7e1293a040
+
+PODFILE CHECKSUM: 75fec4950ee3bd3d068566d19d7d371c701a1a64
+
+COCOAPODS: 1.11.3
