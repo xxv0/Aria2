@@ -1,10 +1,4 @@
-//
-//  PlaceHolderTextView.swift
-//  my
-//
-//  Created by my on 2021/10/12.
-//  Copyright © 2021 上海美莱. All rights reserved.
-//
+
 
 import UIKit
 
